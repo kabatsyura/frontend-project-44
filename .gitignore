@@ -1,4 +1,5 @@
 /node_modules/
+/ascii_videos/
 *.log
 coverage
 .DS_Store
