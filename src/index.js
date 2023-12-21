@@ -3,6 +3,7 @@
 import hello from './cli.js';
 import brainEven from './games/isEven.js';
 import brainCalc from './games/calc.js';
+import brainGCD from './games/gcd.js';
 
 export default (typeOfGame) => {
   console.log('Welcome to the Brain Games!');
@@ -18,6 +19,9 @@ export default (typeOfGame) => {
       break;
     case 'brain-calc':
       brainCalc(name, limitOfPlays);
+      break;
+    case 'brain-gcd':
+      brainGCD(name, limitOfPlays);
       break;
     default:
       break;
