@@ -11,3 +11,7 @@
 #####  Step #5 of the project. Is the number even or not?
 
 [![asciicast](https://asciinema.org/a/yFQXpxgEUJcItNpseBr3jBIlJ.svg)](https://asciinema.org/a/yFQXpxgEUJcItNpseBr3jBIlJ)
+
+#####  Step #6 of the project. The simple calculator.
+
+[![asciicast](https://asciinema.org/a/ELD9kIZ38j5s1UGM2z3zrUf76.svg)](https://asciinema.org/a/ELD9kIZ38j5s1UGM2z3zrUf76)
