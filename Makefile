@@ -10,11 +10,17 @@ brain-even:
 brain-calc:
 	node bin/brain-calc.js
 
-brain-gcd:
+brain-gcd:b
 	node bin/brain-gcd.js
+
+brain-progression:
+	node bin/brain-progression.js
 
 publish:
 	npm publish --dry-run
 
 lint:
 	npx eslint .
+
+link:
+	sudo npm link

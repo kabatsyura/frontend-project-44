@@ -19,3 +19,7 @@
 #####  Step #7 of the project. To find the bigger common divider.
 
 [![asciicast](https://asciinema.org/a/KHab1fQIQ4GkeiC2hr9CgCpJd.svg)](https://asciinema.org/a/KHab1fQIQ4GkeiC2hr9CgCpJd)
+
+#####  Step #8 of the project. Find the number of progression.
+
+[![asciicast](https://asciinema.org/a/bR31IoijKZ9nsXX0tSWY2qGfp.svg)](https://asciinema.org/a/bR31IoijKZ9nsXX0tSWY2qGfp)
