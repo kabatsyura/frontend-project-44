@@ -23,3 +23,7 @@
 #####  Step #8 of the project. Find the number of progression.
 
 [![asciicast](https://asciinema.org/a/bR31IoijKZ9nsXX0tSWY2qGfp.svg)](https://asciinema.org/a/bR31IoijKZ9nsXX0tSWY2qGfp)
+
+#####  Step #9 of the project. Is the number prime?
+
+[![asciicast](https://asciinema.org/a/Fc4Lr69s0YI7uW95oytwLsKEE.svg)](https://asciinema.org/a/Fc4Lr69s0YI7uW95oytwLsKEE)
