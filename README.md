@@ -15,3 +15,7 @@
 #####  Step #6 of the project. The simple calculator.
 
 [![asciicast](https://asciinema.org/a/ELD9kIZ38j5s1UGM2z3zrUf76.svg)](https://asciinema.org/a/ELD9kIZ38j5s1UGM2z3zrUf76)
+
+#####  Step #7 of the project. To find the bigger common divider.
+
+[![asciicast](https://asciinema.org/a/KHab1fQIQ4GkeiC2hr9CgCpJd.svg)](https://asciinema.org/a/KHab1fQIQ4GkeiC2hr9CgCpJd)
