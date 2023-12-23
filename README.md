@@ -4,6 +4,21 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/7148bdf8889864eb7c0c/maintainability)](https://codeclimate.com/github/kabatsyura/frontend-project-44/maintainability)  [![Actions Status](https://github.com/kabatsyura/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kabatsyura/frontend-project-44/actions)
 
+### Usefull comands with make
+
+After downloading a project, please type "make install" into a terminal for correct installing all modules.
+Then, type a game, which you want to start. You should give correct answers 3 times.
+
+Description of all games. Just type in the terminal next commands:
+
+"brain-even" - will execute a game, where you will check a number is even or not.
+"brain-calc" - a simple calculator.
+"brain-gcd" - find the greatest common divisor of given numbers.
+"brain-prime" - check the number is prime or not.
+"brain-progression" - find a skipped number in the progression.
+
+In the text below you can watch, how this program works.
+
 ###  Step #4 of the project. Saving name of the user.
 
 [![asciicast](https://asciinema.org/a/4KaTMafBLLQGdVKWbgF3rjoMd.svg)](https://asciinema.org/a/4KaTMafBLLQGdVKWbgF3rjoMd)
