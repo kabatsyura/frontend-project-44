@@ -45,7 +45,7 @@ export default (typeOfGame) => {
   console.log('Welcome to the Brain Games!');
   const name = hello();
   console.log(`Hello, ${name}!`);
-  console.log(showFirstQuestion);
+  if (typeOfGame !== 'brain-games') console.log(showFirstQuestion);
 
   // arrOfGame shows the result of each function from the folder "games"
   // arrOfGame[1] - the question with examples
