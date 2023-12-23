@@ -91,7 +91,7 @@ export default (typeOfGame) => {
       countOfPlays += 1;
     } else {
       console.log(`'${clientAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
-      console.log(`Let's try again, ${name}`);
+      console.log(`Let's try again, ${name}!`);
       isAnswerCorrect = false;
     }
 
