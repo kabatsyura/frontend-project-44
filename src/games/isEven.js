@@ -1,6 +1,10 @@
-export const introEven = () => 'Answer "yes" if the number is even, otherwise answer "no".';
+import playGame from '../index.js';
 
-export const game = () => {
+const introEven = 'Answer "yes" if the number is even, otherwise answer "no".';
+
+const resultInNumber = false;
+
+const game = () => {
   const numForCheck = Math.floor(Math.random() * 20);
   const arrOfGame = [];
   arrOfGame.push(`Question: ${numForCheck}`);
@@ -9,3 +13,5 @@ export const game = () => {
 
   return arrOfGame;
 };
+
+export default () => playGame(game, introEven, resultInNumber);

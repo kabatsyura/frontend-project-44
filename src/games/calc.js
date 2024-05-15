@@ -1,6 +1,10 @@
-export const introCalc = () => 'What is the result of the expression?';
+import playGame from '../index.js';
 
-export const game = () => {
+const introCalc = 'What is the result of the expression?';
+
+const resultInNumber = true;
+
+const game = () => {
   const arrOperators = ['+', '-', '*'];
   const firstNum = Math.floor(Math.random() * 20);
   const secondNum = Math.floor(Math.random() * 20);
@@ -27,3 +31,5 @@ export const game = () => {
 
   return arrOfGame;
 };
+
+export default () => playGame(game, introCalc, resultInNumber);

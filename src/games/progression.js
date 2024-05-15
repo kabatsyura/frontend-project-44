@@ -1,8 +1,12 @@
+import playGame from '../index.js';
+
 const randomInt = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
 
-export const introProgression = () => 'What number is missing in the progression?';
+const introProgression = 'What number is missing in the progression?';
 
-export const game = () => {
+const resultInNumber = true;
+
+const game = () => {
   const rangeOfArr = randomInt(6, 10);
   const firstNum = randomInt(1, 10);
   const stepOfProgression = randomInt(1, 10);
@@ -29,3 +33,5 @@ export const game = () => {
 
   return arrOfGame;
 };
+
+export default () => playGame(game, introProgression, resultInNumber);

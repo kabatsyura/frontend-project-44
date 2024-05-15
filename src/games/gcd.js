@@ -1,6 +1,10 @@
-export const introGCD = () => 'Find the greatest common divisor of given numbers.';
+import playGame from '../index.js';
 
-export const game = () => {
+const introGCD = 'Find the greatest common divisor of given numbers.';
+
+const resultInNumber = true;
+
+const game = () => {
   const firstNum = Math.floor(Math.random() * 100);
   const secondNum = Math.floor(Math.random() * 60);
   const isMin = firstNum < secondNum ? firstNum : secondNum;
@@ -18,3 +22,5 @@ export const game = () => {
 
   return arrOfGame;
 };
+
+export default () => playGame(game, introGCD, resultInNumber);

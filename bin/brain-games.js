@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import typeOfGame from '../src/index.js';
+import greeting from '../src/cli.js';
 
-typeOfGame('brain-games');
+greeting();
